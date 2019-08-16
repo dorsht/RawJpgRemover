@@ -1,0 +1,55 @@
+C:\Users\Dpr\source\repos\RawJpegRemover\bin\Release\RawJpegRemover.exe.config
+C:\Users\Dpr\source\repos\RawJpegRemover\bin\Release\RawJpegRemover.exe.manifest
+C:\Users\Dpr\source\repos\RawJpegRemover\bin\Release\RawJpegRemover.application
+C:\Users\Dpr\source\repos\RawJpegRemover\bin\Release\RawJpegRemover.exe
+C:\Users\Dpr\source\repos\RawJpegRemover\bin\Release\RawJpegRemover.pdb
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\MainWindow.g.cs
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\App.g.cs
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover_MarkupCompile.cache
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover_MarkupCompile.lref
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\MainWindow.baml
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover.g.resources
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover.Properties.Resources.resources
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover.csproj.GenerateResource.cache
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover.csproj.CoreCompileInputs.cache
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover.exe.manifest
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover.application
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover.exe
+C:\Users\Dpr\source\repos\RawJpegRemover\obj\Release\RawJpegRemover.pdb
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.exe.config
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.exe.manifest
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.application
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.exe
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.pdb
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\MainWindow.g.cs
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\App.g.cs
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover_MarkupCompile.cache
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover_MarkupCompile.lref
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\MainWindow.baml
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.g.resources
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.Properties.Resources.resources
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.csproj.GenerateResource.cache
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.csproj.CoreCompileInputs.cache
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.exe.manifest
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.application
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.exe
+C:\Users\Dor\Desktop\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.pdb
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.exe.config
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.exe.manifest
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.application
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.exe
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\bin\Release\RawJpegRemover.pdb
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.csprojAssemblyReference.cache
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\MainWindow.g.cs
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\App.g.cs
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover_MarkupCompile.cache
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover_MarkupCompile.lref
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\MainWindow.baml
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.g.resources
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.Properties.Resources.resources
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.csproj.GenerateResource.cache
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.csproj.CoreCompileInputs.cache
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.exe.manifest
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.application
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.exe
+C:\Users\Dor\Google Drive\RawJpegRemover-20190429T122626Z-001\RawJpegRemover\obj\Release\RawJpegRemover.pdb

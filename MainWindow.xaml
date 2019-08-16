@@ -1,0 +1,28 @@
+﻿<Window x:Class="RawJpegRemover.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RawJpegRemover"
+        mc:Ignorable="d"
+        Title="JPG RAW Remover" Height="292.987" Width="796.005">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="673*"/>
+            <ColumnDefinition Width="107*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="jpgFolderSelectButton" Content="Select JPG files folder" HorizontalAlignment="Left" Height="30" Margin="582,4,0,0" VerticalAlignment="Top" Width="188" Click="JpgFolderSelectButton_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="rawFolderSelectButton" Content="Select RAW files folder" HorizontalAlignment="Left" Height="30" Margin="582,48,0,0" VerticalAlignment="Top" Width="188" Click="RawFolderSelectButton_Click" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="rawTypeSelector" HorizontalAlignment="Left" Margin="582,103,0,0" VerticalAlignment="Top" Width="188" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="jpgFolderSelectText" HorizontalAlignment="Left" Margin="20,8,0,0" TextWrapping="Wrap" Text="Select JPG folder" VerticalAlignment="Top" Height="42" Width="538"/>
+        <TextBlock x:Name="rawFolderSelectText" HorizontalAlignment="Left" Margin="20,55,0,0" TextWrapping="Wrap" Text="Select RAW folder" VerticalAlignment="Top" Height="43" Width="538"/>
+        <TextBlock x:Name="rawFileTypeSelect" HorizontalAlignment="Left" Margin="20,103,0,0" TextWrapping="Wrap" Text="Select your RAW file type" VerticalAlignment="Top"/>
+        <Button x:Name="startOperation" Content="Start delete files" HorizontalAlignment="Left" Height="30" Margin="280,210,0,0" VerticalAlignment="Top" Width="188" Click="StartOperation_Click"/>
+        <TextBlock x:Name="credits" HorizontalAlignment="Left" Margin="10,224,0,0" TextWrapping="Wrap" Text="Created by: Dor Shtarker ©" VerticalAlignment="Top"/>
+        <GroupBox x:Name="deleteSelection" Header="Select deletion method" HorizontalAlignment="Left" Height="56" Margin="20,139,0,0" VerticalAlignment="Top" Width="741" Grid.ColumnSpan="2">
+        </GroupBox>
+        <RadioButton x:Name="rawByJpg" Content="Delete Raw files By Jpg files" HorizontalAlignment="Left" Margin="36,166,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <RadioButton x:Name="jpgByRaw" Content="Delete Jpg files By Raw files" HorizontalAlignment="Left" Margin="270,166,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="bothDelete" Content="Delete Raw and Jpg files" HorizontalAlignment="Left" Margin="517,166,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

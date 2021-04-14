@@ -6,6 +6,6 @@ I built this program for photographers who taking photos in RAW and JPG simultan
 
 Since deleting RAW and JPG files manually can be a long process, this program will do the job easily and very fast, just delete one type file of pictures and run the program for the second file type.
 
-You can use It for personal and studying purposes, however, if You want to copy the code to some project or existing program, please contact me.
+You can use it for free, but if you want to use the code itself or some of it, please contact.
 
 Please note: I don't have any warranty for your files.
